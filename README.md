@@ -1,4 +1,4 @@
-<h1 align=center>Hugo Magnolia 🌸 | <a href="https://ololiuhqui.github.io/magnolia-free-hugo-theme/en/" rel="nofollow">Demo</a></h1>
+ <h1 align=center>Hugo Magnolia 🌸 | <a href="https://ololiuhqui.github.io/magnolia-free-hugo-theme/en/" rel="nofollow">Demo</a></h1>
 
 <br>
 <div align="center>
